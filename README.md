@@ -100,3 +100,6 @@ We welcome contributions! Please read our contributing guidelines and submit pul
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+##contract
+<img width="1255" height="859" alt="Screenshot 2025-09-10 134902" src="https://github.com/user-attachments/assets/31e3f599-35bf-4999-b3f7-9ed50acdfa7b" />
+
